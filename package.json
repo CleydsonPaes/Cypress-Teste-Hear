@@ -1,0 +1,15 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "teste",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+    "headless": "cypress run"
+  },
+  "author": "er",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.6.1"
+  }
+}
